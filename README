@@ -1,5 +1,13 @@
 = LineCache - A module to read and cache file information of a Ruby program.
 
+== THIS FORK
+
+This fork was made simply to do minimum changes to support the ruby
+debugger for RubyMine.  It will probably be deleted when the main projects
+are up running compatibly.  This is not intended to be a permanent solution.
+Raise an issue if you are using this and I will avoid deleting it while you
+are still using it.
+
 == SYNOPSIS
 
 The LineCache module allows one to get any line from any file, caching
